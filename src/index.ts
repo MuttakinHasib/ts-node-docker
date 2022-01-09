@@ -1,1 +1,1 @@
-console.log("object");
+export const hello = () => console.log("Hello world!");
