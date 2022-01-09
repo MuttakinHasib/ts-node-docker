@@ -1,0 +1,19 @@
+{
+  "name": "ts-node-docker",
+  "version": "1.0.0",
+  "description": "Typescript Node Docker",
+  "main": "index.js",
+  "repository": "https://github.com/MuttakinHasib/ts-node-docker.git",
+  "author": "Hasib",
+  "license": "MIT",
+  "volta": {
+    "node": "17.3.0"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^17.0.8"
+  }
+}
